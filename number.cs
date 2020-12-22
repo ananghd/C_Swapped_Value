@@ -6,7 +6,7 @@ public class Program
 	{
 		int a = 10;
 		int b = 7;
-    Console.WriteLine("Before Values");
+    		Console.WriteLine("Before Values");
 		Console.WriteLine("a = " + a);
 		Console.WriteLine("b = " + b);
 		a = a + b;
